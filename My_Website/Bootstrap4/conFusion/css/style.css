@@ -24,7 +24,7 @@ body{
     padding:50px 0px 0px 0px;
     z-index:0;
 }
-.card-header{
+#cardheader1{
     background-color: #f5c71a;
 }
 .tab-content {
