@@ -17,10 +17,17 @@
    padding: 20px 0px 20px 0px;
 
 }
+#link1{
+  background-color: #f5c71a;
+}
 body{
     padding:50px 0px 0px 0px;
     z-index:0;
 }
+.card-header{
+    background-color: #f5c71a;
+}
+
 
 .navbar-dark {
      background-color: #512DA8;
